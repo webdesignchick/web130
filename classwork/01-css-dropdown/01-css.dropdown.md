@@ -61,3 +61,6 @@ you can go farther on your own by doing [discover-devtools] (http://discover-dev
 Work with the **classwork/01-css-dropdown/index.html** file.
 
 Review the [slides] (https://docs.google.com/presentation/d/1fUQgAzzAgeozECQWocFyzHXIMVXBJu5dNtvoBPKUjOs/edit?usp=sharing) for lessons on transforms, transitions and animations
+
+### lab time to work on homework
+assignment listed on [canvas] () turn in github link
