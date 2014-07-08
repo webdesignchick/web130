@@ -55,6 +55,14 @@ The most basic commands we will be using with git will follow this pattern:
 
 If you get this done before the rest of the class move on and learn more about the [command line] (https://github.com/thomaswilburn/itc240-2014/blob/master/assignment-0/command-line.md) here.
 Once your code is backed up on the github and you have experience creating a repository you could even delete everything in your box and do this tutorial to [fork a repo] (https://help.github.com/articles/fork-a-repo)
+**To erase everything and start again**
+
+1. make sure your git repo is up to date
+2. navigate to your workspace folder
+3. remove the www folder with `rm -rf www`
+4. run `git clone <https://github.com/path/toproject`
+
+
 you can go farther on your own by doing [discover-devtools] (http://discover-devtools.codeschool.com/) and learn chrome devtools
 
 ### new classwork - css dropdowns
